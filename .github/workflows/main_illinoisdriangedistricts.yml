@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'IllinoisDriangeDistricts'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AFD7307A074C406B8600560F4C50DCA9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C2599E2614E49EA9AAE1065C1FED9D6 }}
           package: .
